@@ -1,0 +1,9 @@
+{
+    "appId": "第三方平台APPID",
+    "component_appid": "第三方平台APPID",
+    "component_appsecret": "第三方平台appsecret",
+    "encodingAESKey": "加解密Key",
+    "token": "随机字符",
+    "template_id":"小程序模板id",
+    "redirect_uri":"授权发起页url,需为此项目部署的域名，而且在开放平台设置，如此项目可以通过www.example.com访问到index页，则填写http://www.example.com"
+}
